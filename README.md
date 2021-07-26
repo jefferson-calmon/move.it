@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="MoveIt" width="250"/>
+   <img src="https://raw.githubusercontent.com/jefferson-calmon/moveit/main/.github/moveit.svg" alt="MoveIt" width="250"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 ### Fotos
 
 <div align="center">
-   <img src="./.github/screenshot.png">
+   <img src="https://raw.githubusercontent.com/jefferson-calmon/moveit/main/.github/screenshot.jpg">
 </div>
 
 # :eyes: Demo
